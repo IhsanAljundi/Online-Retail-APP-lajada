@@ -1,2 +1,1 @@
-# Online-Retail-APP-lajada
-Online Retail Aplikasi Database
+![ERD Diagram](erd.png)
