@@ -1,0 +1,1 @@
+CREATE DATABASE IF not exist lajada;
